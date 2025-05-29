@@ -12,15 +12,8 @@ display:flex;
     background-color: aquamarine;
     height: 20rem;
     flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
 }
-
-
-
-
-
-
-
-
 
 footer {
     background-color: black;
