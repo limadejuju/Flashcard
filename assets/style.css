@@ -39,6 +39,22 @@ display:flex;
 
 
 
+.cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem
+}
+
+.cartao__conteudo__pergunta {
+    color: var(--text-color);
+}
+
+
+
+
+
+
+
+
 
 
 footer {
