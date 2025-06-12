@@ -21,13 +21,14 @@ display:flex;
 }
 
 .cartao__conteudo{
+    background-color: var(--card-front-color);
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(5, 89, 128);
     height: 100%;
 }
 
 .cartao__conteudo h3 {
-    background-color: brown;
+    color: var(--text-color)
     text-align: left;
     padding: 0.5rem;
     position: absolute;
