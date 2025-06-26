@@ -70,16 +70,8 @@ display:flex;
 }
 
 .cartao__conteudo__resposta {
-    transform: rotateY(180deg);
+    transform: rotateY(180deg);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 }
-
-
-
-
-
-
-
-
 
 footer {
     background-color: black;
